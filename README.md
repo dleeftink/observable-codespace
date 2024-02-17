@@ -4,5 +4,3 @@ Collection of starter kits for starting with Observable Framework right inside y
 
 - https://github.com/dleeftink/observable-node-codespace
 - https://github.com/dleeftink/observable-python-codespace
-
-More t.b.a.
