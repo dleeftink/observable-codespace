@@ -1,4 +1,4 @@
-# Observable Framework browser starters
+# Observable Framework starters
 
 Collection of starter kits for starting with Observable Framework right inside your browser:
 
